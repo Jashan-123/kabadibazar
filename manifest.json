@@ -1,0 +1,36 @@
+{
+  "name": "Junkart",
+  "short_name": "Junkart",
+  "description": "Junkart helps you sell your scrap easily and get better prices and offers. We buy all recyclable scrap materials from you like newspaper, books, paper, iron, plastic aluminum etc.",
+  "icons": [
+    {
+      "src": "/images/icons/junkart_logo/junkart_logo_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons/junkart_logo/junkart_logo_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#ffffff",
+  "theme_color": "#3dc970",
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone",
+  "orientation": "portrait",
+  "gcm_sender_id": "482941778795",
+  "DO_NOT_CHANGE_GCM_SENDER_ID": "Do not change the GCM Sender ID",
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "in.junkart.junkart",
+      "url": "https://play.google.com/store/apps/details?id=in.junkart.junkart&hl=en"
+    },{
+      "platform": "itunes",
+      "url": "https://itunes.apple.com/th/app/junkart-sell-scrap-online/id1245165973?mt=8",
+      "id":"1245165973"
+    }
+  ]
+}
